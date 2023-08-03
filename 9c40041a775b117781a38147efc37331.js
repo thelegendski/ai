@@ -1,0 +1,1 @@
+var response = "Warren Keel (born October 1, 1931) is an American former professional baseball pitcher. He played in Major League Baseball (MLB) for the Philadelphia Phillies, Cleveland Indians, and Philadelphia Athletics.";
