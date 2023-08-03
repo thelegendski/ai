@@ -1,0 +1,1 @@
+var response = "Ethan Moon (born August 15, 1986) is an American actor and comedian. He is best known for his roles as Ethan Moon on the Nickelodeon series \"Big Time Rush\", as well as the lead role of Ethan Moon on the ABC series \"The Middle\".";
