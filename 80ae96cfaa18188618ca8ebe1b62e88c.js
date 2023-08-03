@@ -1,0 +1,1 @@
+var response = "C. S. Lewis (born 19 November 1898) is an English author, poet, and philosopher. He is best known for his fantasy and science fiction novels, including the Chronicles of Narnia, the Screwtape Letters, and the Chronicles of Narnia: The Lion, the Witch and the Wardrobe.";
